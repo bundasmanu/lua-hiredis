@@ -1,7 +1,7 @@
 package = "lua-hiredis-5.2-all-fixed"
 version = "0.2.2-1"
 source = {
-   url = "git://github.com/bundasmanu/lua-hiredis.git",
+   url = "https://github.com/bundasmanu/lua-hiredis.git",
    branch = "lua52-rockspec"
 }
 description = {
